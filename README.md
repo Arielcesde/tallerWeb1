@@ -11,3 +11,12 @@ Git
 
 Autores 
 Ariel De La Rosa
+
+Cómo ejecutar el proyecto
+
+Clonar el repositorio
+git clone https://github.com/Arielcesde/tallerWeb1.git
+
+Entrar a la carpeta del proyecto
+
+Ejecutar el proyecto

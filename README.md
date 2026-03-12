@@ -8,3 +8,6 @@ Las tecnologias utilizadas en este proyecto son
 JavaScript
 HTML
 Git
+
+Autores 
+Ariel De La Rosa
